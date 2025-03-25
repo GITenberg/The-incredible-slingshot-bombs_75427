@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '34611'
     url: http://www.gutenberg.org/2009/agents/34611
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Wirt_Tillotson
+covers:
+- cover_type: archival
+  image_path: 75427-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Robert Moore
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33777
     wikipedia: https://en.wikipedia.org/wiki/Robert_Moore_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75427#The-incredible-slingshot-bombs
 gutenberg_issued: '2025-02-20'
 gutenberg_type: Text
 identifiers:
